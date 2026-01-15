@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Database
+data/*.db
+
+# Uploaded files
+uploads/*
+!uploads/.gitkeep
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/

@@ -183,6 +183,17 @@ Each property receives a unique identifier in the format `PROP-XXXXXX` (e.g., `P
 
 5. **Multi-step Wizard**: Breaks down complex property creation into manageable steps with validation.
 
+## Future Improvements
+
+Given more time, I would add:
+- Unit and integration tests (Jest, React Testing Library)
+- User authentication and authorization
+- Pagination for large property lists
+- Edit functionality for existing properties
+- Search and filtering on the dashboard
+- Input validation with a schema library (Zod/Yup)
+- Docker configuration for easier deployment
+
 ## License
 MIT
 
