@@ -183,3 +183,8 @@ Each property receives a unique identifier in the format `PROP-XXXXXX` (e.g., `P
 
 5. **Multi-step Wizard**: Breaks down complex property creation into manageable steps with validation.
 
+## License
+MIT
+
+## Video Link
+https://www.loom.com/share/ab3c665403db43e9aa4a61ad672b5dde
